@@ -1,0 +1,30 @@
+_repo: The-Autobiography-of-Lieutenant-General-Sir-Harry-Smith-Baronet-of-Aliwal-on-the-Sutlej-GCB_57094
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Harry George Wakelyn
+    gutenberg_agent_id: '49191'
+    url: http://www.gutenberg.org/2009/agents/49191
+  editor:
+    agent_name: Smith, G. C. Moore (George Charles Moore)
+    aliases:
+    - Moore Smith, George Charles
+    - Smith, George Charles Moore
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '43319'
+    url: http://www.gutenberg.org/2009/agents/43319
+description: ''
+gutenberg_issued: '2018-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Autobiography of Lieutenant-General Sir Harry Smith Baronet of Aliwal on
+  the Sutlej G.C.B.
+url: http://www.gutenberg.org/ebooks/57094
