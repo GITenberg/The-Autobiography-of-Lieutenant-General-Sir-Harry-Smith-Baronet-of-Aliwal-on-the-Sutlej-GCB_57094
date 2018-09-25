@@ -1,5 +1,8 @@
 _repo: The-Autobiography-of-Lieutenant-General-Sir-Harry-Smith-Baronet-of-Aliwal-on-the-Sutlej-GCB_57094
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57094-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Harry George Wakelyn
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '43319'
     url: http://www.gutenberg.org/2009/agents/43319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57094#The-Autobiography-of-Lieutenant-General-Sir-Harry-Smith-Baronet-of-Aliwal-on-the-Sutlej-GCB
 gutenberg_issued: '2018-05-05'
 gutenberg_type: Text
 identifiers:
